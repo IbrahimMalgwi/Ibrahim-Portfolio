@@ -15,6 +15,7 @@ const HeaderSocial = () => {
         {" "}
         <BsLinkedin />{" "}
       </a>
+      
       <a
         href="https://github.com/IbrahimMalgwi"
         target="_blank"
@@ -23,6 +24,7 @@ const HeaderSocial = () => {
         {" "}
         <FaGithub />{" "}
       </a>
+
       <a
         href="https://twitter.com/GanzyMalgwi"
         target="_blank"
@@ -31,6 +33,7 @@ const HeaderSocial = () => {
         {" "}
         <BsTwitter />{" "}
       </a>
+
       <a
         href="https://www.facebook.com/GanzyMalgwi"
         target="_blank"
@@ -39,6 +42,7 @@ const HeaderSocial = () => {
         {" "}
         <BsFacebook />{" "}
       </a>
+
       <a
         href="https://www.instagram.com/ganzymalgwi/"
         target="_blank"
