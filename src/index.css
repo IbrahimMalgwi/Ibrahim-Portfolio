@@ -74,7 +74,7 @@ section > h2 {
    color: var(--color-light);
 }
 
-a{
+a {
    color: var(--color-primary);
    transition: var(--transition);
 }
@@ -90,7 +90,7 @@ a:hover {
    padding: 0.75rem 1.2rem;
    border-radius: 0.4rem;
    cursor: pointer;
-   border: 1px solid --color-primary;
+   border: 1px solid var(--color-primary);
    transition: var(--transition);
 }
 
@@ -112,7 +112,7 @@ img {
 }
 
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ==========  */
-@media screen and (min-width:1024px) {
+@media screen and (max-width:1024px) {
    .container {
       width: var(--container-width-md);
    }
