@@ -47,7 +47,19 @@ footer a {
    border-color: var(--color-bg);
 }
 
-.foot__copyright {
+.footer__copyright {
    margin-bottom: 4rem;
    color: var(--color-bg);
+}
+
+/* ========== MEDIA QUERIES (MOBILE DEVICES)  ========== */
+@media screen and (max-width: 600px) { 
+   .permalinks {
+      flex-direction: column;   .footer__socials {
+      gap: 1.5rem;
+   }
+   .footer__socials a {
+      margin-bottom: 2.6rem;
+   }
+  }            
 }
