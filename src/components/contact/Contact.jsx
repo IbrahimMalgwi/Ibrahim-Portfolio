@@ -4,7 +4,7 @@ import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
 import { BsWhatsapp } from "react-icons/bs";
 import { useRef } from "react";
-import emailjs from "@emailjs-com";
+import emailjs from "@emailjs/browser";
 
 const Contact = () => {
   const form = useRef();
@@ -14,11 +14,12 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        "service_bpxtpe4",
+        "template_1e5u4bu",
         form.current,
-        "YOUR_PUBLIC_KEY"
+        "Ph2VJo_mmff7yD5fD"
       )
+      
       .then(
         (result) => {
           console.log(result.text);
@@ -26,7 +27,7 @@ const Contact = () => {
         (error) => {
           console.log(error.text);
         }
-      );
+      ); e.target.reset();
   };
 
   return (
@@ -65,7 +66,7 @@ const Contact = () => {
         </div>
 
         {/* ========== END OF OPTION ========== */}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
