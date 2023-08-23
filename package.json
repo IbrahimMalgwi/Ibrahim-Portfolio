@@ -1,5 +1,6 @@
 {
   "name": "ibrahim-portfolio",
+  "homepage": "https://ibrahim-beryl.vercel.app/#home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
