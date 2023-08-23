@@ -22,7 +22,7 @@ const Nav = () => {
         <AiOutlineUser />
       </a>
       <a href="#experience">
-        <BiBook />{" "}
+        <BiBook />
       </a>
       <a href="#services">
         <RiServiceLine />
