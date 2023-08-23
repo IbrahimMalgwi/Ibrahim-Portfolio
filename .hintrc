@@ -9,7 +9,8 @@
         "ignore": [
           "backdrop-filter",
           "height: fit-content",
-          "aspect-ratio"
+          "aspect-ratio",
+          "scroll-behavior"
         ]
       }
     ]
