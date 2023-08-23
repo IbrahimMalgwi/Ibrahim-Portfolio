@@ -10,7 +10,8 @@
           "backdrop-filter",
           "height: fit-content",
           "aspect-ratio",
-          "scroll-behavior"
+          "scroll-behavior",
+          "user-select"
         ]
       }
     ]
