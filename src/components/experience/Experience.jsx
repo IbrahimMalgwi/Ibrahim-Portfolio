@@ -1,10 +1,10 @@
 import React from 'react'
 import "./experience.css";
-import {BsPatchCheckFill} from 'react-icons/bs'
+import { BsPatchCheckFill } from 'react-icons/bs'
 
 const Experience = () => {
   return (
-    <section id="section">
+    <section id="experience">
       <h5>The Skills I have</h5>
       <h2>My Experience</h2>
 
