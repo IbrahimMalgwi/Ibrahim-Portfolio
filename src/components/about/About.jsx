@@ -38,16 +38,7 @@ const About = () => {
           </div>
 
           <p>
-            I am a software Engineer with expertise in software development. I
-            have knowledge of Java, JavaScript, Python, PHP, versions Control
-            (Git), Spring Boot, React, NextJs, Django, MySQL, MongoDB,
-            PostgreSQL, Maven, Database Administrator, and Rest APIs. I have
-            successfully completed designing and building Solutions and
-            implementations. I am experienced in the entire software development
-            life cycle, from requirements gathering to deployment. I am actively
-            seeking a new opportunity as a Software Engineer where I can
-            leverage my skills to create high-quality, robust, and scalable
-            applications.
+            I am a software Engineer with expertise in software development. I have knowledge of Java, JavaScript, Python, PHP, versions Control (Git), Spring Boot, React, NextJs, Django, MySQL, MongoDB, PostgreSQL, Maven, Database Administrator, and Rest APIs. I have successfully completed designing and building Solutions and implementations. I am experienced in the entire software development life cycle, from requirements gathering to deployment. I am actively seeking a new opportunity as a Software Engineer where I can leverage my skills to create high-quality, robust, and scalable applications.
           </p>
 
           <a href="#contact" className="btn btn-primary">
