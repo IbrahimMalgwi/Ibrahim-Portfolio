@@ -1,9 +1,9 @@
 import React from 'react'
 import "./testimonials.css"
-import Avt1 from "../../assets/avatar1.jpg"
-import Avt2 from "../../assets/avatar2.jpg"
-import Avt3 from "../../assets/avatar3.jpg"
-import Avt4 from "../../assets/avatar4.jpg"
+import Avt1 from "../../assets/avatar1.webp"
+import Avt2 from "../../assets/avatar2.webp";
+import Avt3 from "../../assets/avatar3.webp";
+import Avt4 from "../../assets/avatar4.webp";
 import { Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
