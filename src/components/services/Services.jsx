@@ -21,109 +21,109 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Branding</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Social Media Banners</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Complementary Cards</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Identity Cards</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Letter Heads / Envelops/ Folders</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Banners & Flyers </p>
             </li>
           </ul>
         </article>
-        {/* ========== END OF UI/UX ========== */}
+        {/* ========== GRAPHIC DESIGN ========== */}
         <article className="service">
           <div className="service__head">
-            <h3>WEB DEVELOPMENT</h3>
+            <h3>OTHER SERVICES</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Database Management</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>System Administration</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Smart Home </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Solar PV Installation | Maintainance | Repairs </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>CCTV Installation | Maintainance </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>IOT</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Social Media Management</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Multimedia </p>
             </li>
           </ul>
         </article>
-        {/* ========== END OF WEB DEVELOPMENT ========== */}
+        {/* ========== END OF OTHER SERVICES  ========== */}
         <article className="service">
           <div className="service__head">
-            <h3>CONTENT CREATION</h3>
+            <h3>SOFTWARE ENGINEERING</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Landing Pages </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Portfolios</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Web Appliaction</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>API's</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Plugins</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Desktop Application</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur .</p>
+              <p>Mobile Application</p>
             </li>
           </ul>
         </article>
-        {/* ========== END OF GRAPHIC DESIGN ========== */}
+        {/* ========== END OF SOFTWARE ENGENEERING ========== */}
 
       </div>
     </section>

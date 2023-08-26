@@ -8,7 +8,7 @@ import { VscFolderLibrary } from "react-icons/vsc";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get to Know</h5>
+      <h5>Get to Know Me</h5>
       <h2>About Me</h2>
 
       <div className="container about__container">
@@ -37,10 +37,22 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem ullam temporibus voluptates dolore vel, rerum iusto unde nisi mollitia eaque provident, blanditiis ea excepturi quo minima quis cumque modi saepe.</p>
+          <p>
+            I am a software Engineer with expertise in software development. I
+            have knowledge of Java, JavaScript, Python, PHP, versions Control
+            (Git), Spring Boot, React, NextJs, Django, MySQL, MongoDB,
+            PostgreSQL, Maven, Database Administrator, and Rest APIs. I have
+            successfully completed designing and building Solutions and
+            implementations. I am experienced in the entire software development
+            life cycle, from requirements gathering to deployment. I am actively
+            seeking a new opportunity as a Software Engineer where I can
+            leverage my skills to create high-quality, robust, and scalable
+            applications.
+          </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
-
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
