@@ -40,13 +40,13 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon"/>
             <h4>Email</h4>
-            <h5>ganzymalgwi@gmail.com</h5>
+            <h4>ganzymalgwi@gmail.com</h4>
             <a href="mailto:ganzymalgwi@gmail.com">Send a Message</a>
           </article>
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
-            <h5>ganzy-Malgwi Technologies</h5>
+            <h4>ganzy-Malgwi Technologies</h4>
             <a href="https://m.me/GanzyMalgwi" target="_blank" rel="noreferrer">
               Send a Message
             </a>
@@ -54,7 +54,7 @@ const Contact = () => {
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            <h5>Let's chat</h5>
+            <h4>Let's chat</h4>
             <a
               href="https://api.whatsapp.com/send?phone=+23408152546005"
               target="_blank"
