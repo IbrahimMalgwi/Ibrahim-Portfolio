@@ -19,8 +19,8 @@ const data = [
 	id: 2,
 	image: IMG2,
 	title: "Purple background",
-	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://github.com/IbrahimMalgwi"
+	github: "https://github.com/IbrahimMalgwi/Motivation-Generator-Ai",
+	demo: "https://motivation-generator-ai.vercel.app/"
 },
 {
 	id: 3,
