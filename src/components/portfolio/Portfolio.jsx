@@ -11,23 +11,23 @@ const data = [
   {
 	id: 1,
 	image: IMG1,
-	title: "Purple background",
+	title: "Web Scrapping Appliation",
 	github: "https://github.com/IbrahimMalgwi/pricewise",
 	demo: "https://pricewise-roan.vercel.app/"
 },
 {
 	id: 2,
 	image: IMG2,
-	title: "Purple background",
+	title: "Motivation Generator Using AI",
 	github: "https://github.com/IbrahimMalgwi/Motivation-Generator-Ai",
 	demo: "https://motivation-generator-ai.vercel.app/"
 },
 {
 	id: 3,
 	image: IMG3,
-	title: "Purple background",
+	title: "Oma Educatioal",
 	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://github.com/IbrahimMalgwi"
+	demo: "https://omaeducationalfoundation.org/"
 },
 {
 	id: 4,
