@@ -12,8 +12,8 @@ const data = [
 	id: 1,
 	image: IMG1,
 	title: "Purple background",
-	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://github.com/IbrahimMalgwi"
+	github: "https://github.com/IbrahimMalgwi/pricewise",
+	demo: "https://pricewise-roan.vercel.app/"
 },
 {
 	id: 2,
