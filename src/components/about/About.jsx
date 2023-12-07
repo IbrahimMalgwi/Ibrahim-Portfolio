@@ -38,7 +38,27 @@ const About = () => {
           </div>
 
           <p>
-            I am a software Engineer with expertise in software development. I have knowledge of Java, JavaScript, Python, PHP, versions Control (Git), Spring Boot, React, NextJs, Django, MySQL, MongoDB, PostgreSQL, Maven, Database Administrator, and Rest APIs. I have successfully completed designing and building Solutions and implementations. I am experienced in the entire software development life cycle, from requirements gathering to deployment. I am actively seeking a new opportunity as a Software Engineer where I can leverage my skills to create high-quality, robust, and scalable applications.
+            I am a highly skilled and versatile Software Engineer with extensive
+            expertise in Java, Python, and JavaScript, along with their
+            respective frameworks. My proficiency spans across the entire
+            software development lifecycle, from architecting and developing
+            robust applications using technologies like Spring Boot, Django, and
+            React, to ensuring seamless deployment and system administration. As
+            a seasoned DevOps engineer, I have a proven track record of
+            implementing efficient CI/CD pipelines and optimizing development
+            workflows. My proficiency extends beyond software development into
+            system and database administration. Leveraging my in-depth knowledge
+            of systems, I have successfully administered and maintained the
+            health and performance of diverse IT infrastructures. Additionally,
+            my skills as a Database Administrator encompass designing,
+            implementing, and optimizing database systems to ensure data
+            integrity and efficient query performance. I thrive in dynamic
+            environments where the intersection of development, system
+            administration, and DevOps practices converge. My commitment to
+            delivering high-quality software solutions, coupled with my ability
+            to manage and streamline complex IT ecosystems, positions me as a
+            valuable asset capable of driving innovation and excellence in any
+            technology-focused organization.
           </p>
 
           <a href="#contact" className="btn btn-primary">
