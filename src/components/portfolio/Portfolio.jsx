@@ -9,48 +9,48 @@ import IMG6 from "../../assets/portfolio6.jpg"
 
 const data = [
   {
-	id: 1,
-	image: IMG1,
-	title: "Web Scrapping Appliation",
-	github: "https://github.com/IbrahimMalgwi/pricewise",
-	demo: "https://pricewise-roan.vercel.app/"
-},
-{
-	id: 2,
-	image: IMG2,
-	title: "Motivation Generator Using AI",
-	github: "https://github.com/IbrahimMalgwi/Motivation-Generator-Ai",
-	demo: "https://motivation-generator-ai.vercel.app/"
-},
-{
-	id: 3,
-	image: IMG3,
-	title: "Oma Educatioal",
-	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://omaeducationalfoundation.org/"
-},
-{
-	id: 4,
-	image: IMG4,
-	title: "Purple background",
-	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://github.com/IbrahimMalgwi"
-},
-{
-	id: 5,
-	image: IMG5,
-	title: "Purple background",
-	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://github.com/IbrahimMalgwi"
-},
-{
-	id: 6,
-	image: IMG6,
-	title: "Purple background",
-	github: "https://github.com/IbrahimMalgwi",
-	demo: "https://github.com/IbrahimMalgwi"
-}
-]
+    id: 1,
+    image: IMG1,
+    title: "Web Scrapping Appliation",
+    github: "https://github.com/IbrahimMalgwi/pricewise",
+    demo: "https://pricewise-roan.vercel.app/",
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: "Motivation Generator Using AI",
+    github: "https://github.com/IbrahimMalgwi/Motivation-Generator-Ai",
+    demo: "https://motivation-generator-ai.vercel.app/",
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Oma Educatioal",
+    github: "https://github.com/IbrahimMalgwi",
+    demo: "https://omaeducationalfoundation.org/",
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: "Tic-Tac-Toe Games",
+    github: "https://github.com/IbrahimMalgwi/tic-tac-toe",
+    demo: "https://ganzy-tic.tiiny.site/",
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "Purple background",
+    github: "https://github.com/IbrahimMalgwi",
+    demo: "https://github.com/IbrahimMalgwi",
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "Purple background",
+    github: "https://github.com/IbrahimMalgwi",
+    demo: "https://github.com/IbrahimMalgwi",
+  },
+];
 
 const Portfolio = () => {
   return (
